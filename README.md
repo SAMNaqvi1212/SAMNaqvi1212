@@ -16,7 +16,7 @@ Skills:  Python / SQL / Tableau / Excel/ Pytorch / MS-Office/ Microsoft Power-BI
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMNaqvi1212)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SAMNaqvi1212&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SAMNaqvi1212&show_icons=true&count)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SAMNaqvi1212)  
 
