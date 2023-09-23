@@ -16,13 +16,13 @@ Skills:  Python / SQL / Tableau / Excel/ Pytorch / MS-Office/ Microsoft Power-BI
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMNaqvi1212)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SAMNaqvi1212&show_icons=true&count)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SAMNaqvi1212&show_icons=true&count&private=True)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SAMNaqvi121)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=SAMNaqvi1212)  
 
-![Profile views](https://gpvc.arturio.dev/SAMNaqvi1212,private=True)  
+![Profile views](https://gpvc.arturio.dev/SAMNaqvi1212)  
 <!---
 SAMNaqvi1212/SAMNaqvi1212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
