@@ -22,7 +22,7 @@ Skills:  Python / SQL / Tableau / Excel/ Pytorch / MS-Office/ Microsoft Power-BI
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=SAMNaqvi1212)  
 
-![Profile views](https://gpvc.arturio.dev/SAMNaqvi1212)  
+![Profile views](https://gpvc.arturio.dev/SAMNaqvi1212&private=True)  
 <!---
 SAMNaqvi1212/SAMNaqvi1212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
