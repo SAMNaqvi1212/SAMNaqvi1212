@@ -48,4 +48,4 @@ He/Him
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/16879380/sam)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samnaqvi1212/)  
 
-![Profile Views](https://gpvc.arturio.dev/SAMNaqvi1212)
+![Profile Views](https://komarev.com/ghpvc/?username=SAMNaqvi1212&style=flat-square)
