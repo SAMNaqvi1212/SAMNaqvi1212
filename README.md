@@ -1,29 +1,51 @@
-- 👋 Hi, I’m Syed Ali Mashood Naqvi
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Deep Learning and Reinforcement Learning
-- 💞️ I’m looking to collaborate on anything ranging from Reinforcement Learning to deep learning to ML to api designs
-- 📫 How to reach me just mail me at alimashoud5@gmail.com
-- 🔭 I’m currently working on building Reinforcement learning model for Distributed optimization in energy communities.  
-- 😄 Pronouns: He/him
+# 👋 Hi there, I'm Syed Ali Mashood Naqvi!
 
-Skills:  Python / SQL / Tableau / Excel/ Pytorch / MS-Office/ Microsoft Power-BI
+👀 **Interests:**  
+I’m passionate about **Data Science** and **Machine Learning**, and I'm excited to explore the latest advancements in these fields.  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAMNaqvi1212)](https://github.com/anuraghazra/github-readme-stats)
+🌱 **Currently Learning:**  
+Deep Learning, Reinforcement Learning, and their applications in real-world scenarios.
 
- 
+🔭 **Current Work:**  
+I'm working on building a **Reinforcement Learning model** for distributed optimization in energy communities.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/SAMNaqvi1212)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@SAMNaqvi_1212)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/16879380/sam) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samnaqvi1212/)
+💞️ **Looking to Collaborate On:**  
+Projects ranging from **Reinforcement Learning** to **Deep Learning**, **Machine Learning**, and **API Designs**.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMNaqvi1212)](https://github.com/anuraghazra/github-readme-stats)
+📫 **How to Reach Me:**  
+Feel free to email me at **alimashoud5@gmail.com**.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SAMNaqvi1212&show_icons=true&count&private=True)  
+😄 **Pronouns:**  
+He/Him
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SAMNaqvi121)  
+---
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=SAMNaqvi1212)  
+## 🔧 Skills & Tools
 
-![Profile views](https://gpvc.arturio.dev/SAMNaqvi1212&private=True)  
-<!---
-SAMNaqvi1212/SAMNaqvi1212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **Programming Languages:** Python, SQL  
+- **Data Visualization & Analysis:** Tableau, Power BI, MS Excel  
+- **Frameworks & Libraries:** PyTorch  
+- **General Tools:** MS Office Suite  
+
+---
+
+## 📊 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAMNaqvi1212&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMNaqvi1212&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SAMNaqvi1212&theme=radical)](https://github.com/SAMNaqvi1212)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=SAMNaqvi1212&theme=radical)
+
+---
+
+## 🌐 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SAMNaqvi1212)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SAMNaqvi_1212)  
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/16879380/sam)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samnaqvi1212/)  
+
+![Profile Views](https://gpvc.arturio.dev/SAMNaqvi1212)
